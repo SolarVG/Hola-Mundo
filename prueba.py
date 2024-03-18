@@ -1,2 +1,2 @@
 print("De que es VG?????")
-salame
+pepe = salame
