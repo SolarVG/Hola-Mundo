@@ -1,6 +1,6 @@
 print("De que es VG?????")
 
-salame = []
+pepe = salame = []
 
 for i in salame:
     if i == 2:
